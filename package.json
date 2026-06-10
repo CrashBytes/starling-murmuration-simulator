@@ -2,6 +2,9 @@
   "name": "starling-murmuration-simulator",
   "version": "0.1.0",
   "private": true,
+  "overrides": {
+    "flatted": "3.4.2"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
