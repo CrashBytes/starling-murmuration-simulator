@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "overrides": {
-    "flatted": "3.4.2"
+    "flatted": "3.4.2",
+    "postcss": "^8.5.10"
   },
   "scripts": {
     "dev": "next dev",
